@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# **React Tooltip App** 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ⭐ Introduction
+- This project aims to create a customizable tooltip component using React.
+- The tooltip component enhances user interaction by providing helpful context upon hover.
+- It can display informative messages near interactive elements like buttons, icons, or links.
+- The tooltip's location can be adjusted to fit the application's design and layout, with options for top, bottom, right, or left positioning.
 
-## Available Scripts
+## 🔥 Getting Started With The Project
+- Fork the Project in your Repository.
+- Clone the Forked Repository in your Local System.
+- Run 'npm install'.
+- Run 'npm start'.
+- Enjoy :)
 
-In the project directory, you can run:
+## Site is live at: https://ankur-rai-19.github.io/React-Tooltip/
 
-### `npm start`
+## SOME SCREENSHOTS:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![2 React-App](https://github.com/Ankur-Rai-19/React-Tooltip/assets/125396300/be71a6ae-4dc4-4fd7-b2a3-e023460534c2)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![3 React-App](https://github.com/Ankur-Rai-19/React-Tooltip/assets/125396300/24260834-6b1f-4375-b68d-fb50a4848410)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![4 React-App](https://github.com/Ankur-Rai-19/React-Tooltip/assets/125396300/eda3a699-a054-4f89-92ac-cf0871cc6c4a)
